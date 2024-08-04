@@ -28,5 +28,6 @@
     "tstyche": "^2.1.1",
     "typescript": "^5.2.2",
     "vite": "^5.3.4"
-  }
+  },
+  "packageManager": "yarn@4.4.0"
 }
